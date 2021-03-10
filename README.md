@@ -1,10 +1,11 @@
-### Hi there, I'm Tom 👋
+### Tomás Lazarte: Front End Software Engineer 💻
+#
+I'm a software engineer who is passionate about learning languages and frameworks, as well as creating technology to elevate people.
+#
 
-### Front End Software Engineer
-
-- 🔭 I’m currently working on Global Logic
-- 🌱 I’m currently learning everything 😆
-- 👯 I’m looking to collaborate with other software developers
+- 🔭 I’m working on Global Logic
+- 📘 I’m currently learning everything 😆
+- 🙋 I’m looking to collaborate with other software developers
 - 🥅 2021 Goals: JS Fullstack
 
 <br />
