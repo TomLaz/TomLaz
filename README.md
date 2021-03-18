@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about learning languages and framework
 #
 
 - 🔭 I’m working on Global Logic
-- 📘 I’m currently learning everything 😆
+- 📘 I’m currently learning: Angular
 - 🙋 I’m looking to collaborate with other software developers
 - 🥅 2021 Goals: JS Fullstack
 
