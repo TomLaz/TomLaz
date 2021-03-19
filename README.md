@@ -1,3 +1,6 @@
+
+[<img width="100%" alt="Tomas Lazarte" src="https://media-exp1.licdn.com/dms/image/C5616AQGLJ_uY6R1kHg/profile-displaybackgroundimage-shrink_200_800/0/1616110227275?e=1621468800&v=beta&t=k93DtbTmw2XNrxuZY_T1sGgh3DIVP1HEGqJmNAeh11Y" />](https://www.linkedin.com/in/tomaslazarte/)
+#
 ### Tomás Lazarte: Front End Software Engineer 💻
 #
 I'm a software engineer who is passionate about learning languages and frameworks, as well as creating technology to elevate people.
