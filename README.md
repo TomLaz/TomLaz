@@ -1,5 +1,5 @@
 
-[<img width="100%" alt="Tomas Lazarte" src="https://media-exp1.licdn.com/dms/image/C5616AQGLJ_uY6R1kHg/profile-displaybackgroundimage-shrink_200_800/0/1616110227275?e=1621468800&v=beta&t=k93DtbTmw2XNrxuZY_T1sGgh3DIVP1HEGqJmNAeh11Y" />](https://www.linkedin.com/in/tomaslazarte/)
+[<img width="100%" alt="Tomas Lazarte" src="https://media-exp1.licdn.com/dms/image/C5616AQGLJ_uY6R1kHg/profile-displaybackgroundimage-shrink_350_1400/0/1616110227275?e=1630540800&v=beta&t=vrDqwGhlN4L_fWguUMfrxR-He2e-p_6SxUBn9IHzp6A" />](https://www.linkedin.com/in/tomaslazarte/)
 #
 ### Tomás Lazarte: Senior Front End Software Engineer 💻
 #
