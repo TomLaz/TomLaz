@@ -35,7 +35,7 @@ I'm a software engineer who is passionate about learning languages and framework
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](git)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](github)
 [<img align="left" alt="Jenkins" width="26px" src="https://www.jenkins.io/images/logos/jenkins/256.png" />](jenkins)
-[<img align="left" alt="GitLab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" />](gitlab)
+[<img align="left" alt="GitLab" width="26px" src="https://4.bp.blogspot.com/-ASJlXDiUyvQ/VbyVEX2GT8I/AAAAAAAABWw/DWU55XXnBR4/s1600/GitLab_Logo.svg.png" />](gitlab)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](sql)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](terminal)
 
