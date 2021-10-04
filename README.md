@@ -27,7 +27,7 @@ I'm a software engineer who is passionate about learning languages and framework
 [<img align="left" alt="Typescript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />](typescript)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](javascript)
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](sass)
-[<img align="left" alt="Material UI" width="26px" src="https://material-ui.com/static/logo.png" />](materialui)
+[<img align="left" alt="Material UI" width="26px" src="https://mata0406.github.io/resume/static/media/material.5b2d8a0a.png" />](materialui)
 [<img align="left" alt="React Testing Library" width="26px" src="https://raw.githubusercontent.com/kentcdodds/react-testing-library/master/other/goat.png" />](reacttestinglibrary)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](html5)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](css3)
