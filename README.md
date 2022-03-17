@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about learning languages and framework
 #
 
 - 🔭 I’m working on Santander Tecnologia
-- 📘 I’m currently learning: React Native
+- 📘 I’m currently learning: NodeJS
 - 🙋 I’m looking to collaborate with other software developers
 - 🥅 2022 Goals: Fullstack JS
 
