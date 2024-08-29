@@ -6,7 +6,7 @@
 I'm a software engineer who is passionate about learning languages and frameworks, as well as creating technology to elevate people.
 #
 
-- 🔭 I’m working on Santander Tecnologia
+- 🔭 I’m working on Despegar
 - 🙋 I’m looking to collaborate with other software developers
 
 <br />
