@@ -21,10 +21,10 @@ I'm a software engineer who is passionate about learning languages and framework
 
 ### Languages and Tools:
 
-[<img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHC7oxw6uc-eVND7YaS4LXGg7nSDT67D-pNg&usqp=CAU" />](next)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](react)
-[<img align="left" alt="Typescript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />](typescript)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](javascript)
+[<img align="left" alt="Typescript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />](typescript)
+[<img align="left" alt="Next" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHC7oxw6uc-eVND7YaS4LXGg7nSDT67D-pNg&usqp=CAU" />](next)
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](sass)
 [<img align="left" alt="Material UI" width="26px" src="https://mata0406.github.io/resume/static/media/material.5b2d8a0a.png" />](materialui)
 [<img align="left" alt="React Testing Library" width="26px" src="https://raw.githubusercontent.com/kentcdodds/react-testing-library/master/other/goat.png" />](reacttestinglibrary)
