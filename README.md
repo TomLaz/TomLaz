@@ -1,5 +1,5 @@
 
-[<img width="100%" alt="Tomas Lazarte" src="https://media.licdn.com/dms/image/C5616AQGLJ_uY6R1kHg/profile-displaybackgroundimage-shrink_350_1400/0/1616110228352?e=1721865600&v=beta&t=tVrmj1HmPKnq91_kth83oCyB4Te6Sfy6EHTO686HzJM" />](https://www.linkedin.com/in/tomaslazarte/)
+[<img width="100%" alt="Tomas Lazarte" src="https://i.postimg.cc/BnKK3YpK/1616110228352.jpg" />](https://www.linkedin.com/in/tomaslazarte/)
 #
 ### Tomás Lazarte: Senior Front End Software Engineer 💻
 #
